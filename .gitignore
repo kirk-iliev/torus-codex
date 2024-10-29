@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dll
+
+# Docker files (if desired, only exclude if they're large or unnecessary)
+*.docker
+
+# Environment variables and virtual environments
+.env
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE-specific directories and settings (optional)
+.vscode/
+.idea/
